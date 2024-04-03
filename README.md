@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nyahom00, co-founder and creative director at undergraffiti. ltd.
-- 👀 Looking for developers who will join our team.
+- 👀 Looking for developers with great aspiration and passion.
 - 💞️ I’m looking to collaborate on anything related to webGL.
 - 📫 How to reach me ... eri.furuyama@undergraffiti.com
 
